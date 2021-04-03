@@ -8,3 +8,12 @@
 __pycache__/
 
 .vscode/
+
+!weather.csv
+!rain.csv
+!df_location.csv
+!life_location.csv
+
+/데이콘경진대회/ch3/secu_data/*
+
+submission/
