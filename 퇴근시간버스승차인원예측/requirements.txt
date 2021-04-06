@@ -1,7 +1,10 @@
 -r ../requirements.txt
 pandas
+numpy
+seaborn
 geopy
 scikit-learn
 xgboost
 lightgbm
 tqdm
+Ipywidgets

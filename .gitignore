@@ -1,19 +1,13 @@
 .venv
 
-*.csv
-*.xlsx
-*.bak
-
 .ipynb_checkpoints/
 __pycache__/
 
 .vscode/
 
-!weather.csv
-!rain.csv
-!df_location.csv
-!life_location.csv
+secu_data
+submission
 
-/데이콘경진대회/ch3/secu_data/*
-
-submission/
+*.csv
+*.xlsx
+*.bak
